@@ -1,0 +1,1 @@
+{"version":1,"defects":{"loginTest::testLoginFunction":8},"times":{"RegisterTest::testRegisterFunction":0.005,"loginTest::testLoginFunction":0.003,"ContactTest::testContactFunctionn":0.008}}
